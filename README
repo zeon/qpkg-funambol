@@ -1,0 +1,6 @@
+This QPKG contains the source files of applications obtained/downloaded from the URLs shown below:
+
+- Funambol v8.7.0
+http://download.forge.objectweb.org/sync4j/funambol-8.7.0.bin
+
+* the /admin directory is removed due to not being used.
